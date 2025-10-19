@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://b73o3pms7wo1u"]
+
+[ext_resource type="Script" uid="uid://cxbrdai0ap6wl" path="res://export_ctex_to_png.gd" id="1_qjo66"]
+
+[node name="Node2D" type="Node2D"]
+script = ExtResource("1_qjo66")
